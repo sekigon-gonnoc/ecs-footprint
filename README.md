@@ -1,2 +1,6 @@
 # ecs-footprint
-Electrostatic switch footprint for KiCad
+
+Footprint for electrostatic capacitive switch
+
+![footprint](footprint.png)
+![symbol](symbol.png)
